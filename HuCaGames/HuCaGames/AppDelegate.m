@@ -30,6 +30,9 @@
     return YES;
 }
 
+- (void)changeDesignFriend {
+    //Code
+}
 
 - (void)addMyProfile {
     //Code
