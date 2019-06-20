@@ -32,6 +32,7 @@
 
 - (void)changeDesignFriend {
     //Code
+    //Code 2
 }
 
 - (void)addMyProfile {
